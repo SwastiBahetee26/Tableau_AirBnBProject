@@ -23,6 +23,12 @@ For ease of analysis, the three CSV files were merged into a single Excel file:
 
 - **Tableau Full Project.twbx**: The Tableau workbook containing the complete dashboard for visualizing and interacting with the Seattle Airbnb data.
 
+## Online Dashboard Access
+
+You can interact with the dashboard online at the following link:
+
+- [Seattle Airbnb Dashboard](https://public.tableau.com/app/profile/swasti.bahetee/viz/AirBnBFullProject_17200392690200/Dashboard1)
+
 ## How to Use
 
 1. **Open the Tableau Workbook**:
@@ -35,4 +41,4 @@ For ease of analysis, the three CSV files were merged into a single Excel file:
 ## Acknowledgments
 
 - Thanks to [Kaggle](https://www.kaggle.com/datasets/airbnb/seattle) for providing the Seattle Airbnb dataset.
-- Special recognition for the Tableau community, whose resources and tutorials assisted in creating the dashboard.
+- Special recognition for the
